@@ -16,3 +16,6 @@ git checkout nombre_del_archivo
 ---Para confirmar definitivamente los cambios en el repositorio local
 git commit
 
+---Para revisar los commits hechos
+git log
+
