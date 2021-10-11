@@ -1,0 +1,18 @@
+---Para inicializar Git
+git init
+
+---Para revisar el estado de los archivos en una carpeta o directorio
+git status
+
+---Para seguir o vigilar TODOS los archivos con git
+git add .
+
+---Para ver las diferencias entre archivos en el proyecto
+git diff nombre_del_archivo
+
+---Para retroceder cambios en el o los ficheros
+git checkout nombre_del_archivo
+
+---Para confirmar definitivamente los cambios en el repositorio local
+git commit
+
