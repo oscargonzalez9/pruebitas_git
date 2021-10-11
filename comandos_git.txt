@@ -19,3 +19,7 @@ git commit
 ---Para revisar los commits hechos
 git log
 
+
+---Para hacer commits de forma rápida
+git commit -m "add: nuevos cambios"
+
