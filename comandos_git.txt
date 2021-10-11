@@ -23,3 +23,7 @@ git log
 ---Para hacer commits de forma rápida
 git commit -m "add: nuevos cambios"
 
+
+--Sitios a donde subir nuestro repositorios
+Github, Gitlab, Bitbucket
+
