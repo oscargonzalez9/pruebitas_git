@@ -29,3 +29,4 @@ Github, Gitlab, Bitbucket
 ---Para subir fichero al repositorio
 git push -u origin master
 
+Git iniciado
